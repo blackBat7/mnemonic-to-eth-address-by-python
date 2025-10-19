@@ -20,4 +20,8 @@ pip install eth_keys
 ```
 python Mne_to_add.py
 ```
+# ⚙️ To Run on Phone 
+
+
+Use **PyDroid 3** or **Termux** to run on your phone.
 
