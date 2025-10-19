@@ -25,3 +25,9 @@ python Mne_to_add.py
 
 Use **PyDroid 3** or **Termux** to run on your phone.
 
+# 💛🧡❤️💙 Please get me a Coffee
+trx address for donate
+```
+TQYXdqoMM4FzhimvB4td3tuv3WBKHwDM7g
+```
+
