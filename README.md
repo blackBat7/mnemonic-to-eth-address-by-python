@@ -16,4 +16,8 @@ pip install bip44
 pip install bip44.utils
 pip install eth_keys
 ```
+###Command for Run Python Script
+```
+python Mne_to_Add.py
+```
 
